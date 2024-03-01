@@ -9,11 +9,16 @@ author_profile: true
 
 Preprint
 ======
-* The Perturbative Resolvent Method: spectral densities of random matrix ensembles via perturbation theory. <br>
-<strong><U>Wenping Cui</U></strong>, Jason W. Rocks, and Pankaj Mehta <br>
-<span style="color:#4285F4">[arXiv:2012.00663.](https://arxiv.org/abs/2012.00663)</span>
-
+* A model of pan-immunity maintenance by horizontal gene transfer in the ecological dynamics of bacteria and phages . <br>
+<strong><U>Wenping Cui</U></strong>, Jemma M. Fendley, Sriram Srikant and Boris Shraiman <br>
+<span style="color:#4285F4">[arXiv:2402.19388.](https://arxiv.org/abs/2402.19388)</span>
 <br>
+
+2024
+======
+* An elementary mean-field approach to the spectral densities of random matrix ensembles. <br>
+		<strong><U>Wenping Cui</U></strong>, Jason W. Rocks, Pankaj Mehta <br>
+<span style="color:#4285F4">[Physica A: Statistical Mechanics and its Applications: 129608  (2024)](https://doi.org/10.1016/j.physa.2024.129608)</span>
 
 2021
 ======
