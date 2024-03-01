@@ -9,7 +9,7 @@ author_profile: true
 
 Preprint
 ======
-* A model of pan-immunity maintenance by horizontal gene transfer in the ecological dynamics of bacteria and phages . <br>
+* A model of pan-immunity maintenance by horizontal gene transfer in the ecological dynamics of bacteria and phages. <br>
 <strong><U>Wenping Cui</U></strong>, Jemma M. Fendley, Sriram Srikant and Boris Shraiman <br>
 <span style="color:#4285F4">[arXiv:2402.19388.](https://arxiv.org/abs/2402.19388)</span>
 <br>
