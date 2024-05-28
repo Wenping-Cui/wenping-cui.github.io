@@ -13,6 +13,14 @@ redirect_from:
 <span style="color:#4285F4">[PDF Version](/files/CV_WCui2.pdf) 
 
 
+Employment
+======
+* Postdoctoral Associate, Princeton 2024 - now
+  * Advisor: [Gautam Reddy](https://reddylab.physics.princeton.edu/)
+  
+* KITP Postdoctoral Fellow, UC Santa Barbara 2021 – 2024
+  * Advisor: [Boris Shraiman](https://www.kitp.ucsb.edu/shraiman)
+
 Education
 ======
 * Ph.D., Physics, Boston College, 2014 – 2021
