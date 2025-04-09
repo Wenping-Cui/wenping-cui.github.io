@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<span style="color:#4285F4">[PDF Version](/files/CV_WCui2.pdf) 
+<span style="color:#4285F4">[PDF Version](/files/CV_WCui.pdf) 
 
 
 Employment
