@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenping Cui"
 title_separator          : "-"
 name                     : &name "Wenping Cui"
-description              : &description "Postdoc Fellow at KITP"
+description              : &description "Postdoc at Princeton University"
 url                      : https://wenping-cui.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenping-cui/wenping-cui.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "崔文平"
-  avatar           : "Cui_Wenping_2024.jpeg"
+  avatar           : "Cui_Wenping_2025.jpeg"
   bio              : "Postdoc Associate"
   location         : "Princeton University, NJ"
   employer         :

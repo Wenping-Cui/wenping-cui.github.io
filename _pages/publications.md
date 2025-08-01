@@ -9,18 +9,19 @@ author_profile: true
 
 Preprint
 ======
-* A model of pan-immunity maintenance by horizontal gene transfer in the ecological dynamics of bacteria and phages. <br>
-<strong><U>Wenping Cui</U></strong>, Jemma M. Fendley, Sriram Srikant and Boris Shraiman <br>
-<span style="color:#4285F4">[arXiv:2402.19388](https://arxiv.org/abs/2402.19388)</span>
+* Les Houches Lectures on Community Ecology: From Niche Theory to Statistical Mechanics. 
 <br>
-
-* Les Houches Lectures on Community Ecology: From Niche Theory to Statistical Mechanics. <br>
 Wenping Cui, Robert Marsland III, Pankaj Mehta <br>
 <span style="color:#4285F4">[arXiv:2403.05497](https://arxiv.org/abs/2403.05497)</span>
 <br>
 
-2024
+2025
 ======
+* A minimal model of pan-immunity maintenance by horizontal gene transfer in the ecological dynamics of bacteria and phages. <br>
+<strong><U>Wenping Cui</U></strong>, Jemma M. Fendley, Sriram Srikant and Boris Shraiman <br>
+<span style="color:#4285F4">[Proc. Natl. Acad. Sci. 122 (31) e2417628122 (2025)](https://doi.org/10.1073/pnas.2417628122)</span>
+2024
+====== 
 * An elementary mean-field approach to the spectral densities of random matrix ensembles. <br>
 		<strong><U>Wenping Cui</U></strong>, Jason W. Rocks, Pankaj Mehta <br>
 <span style="color:#4285F4">[Physica A: Statistical Mechanics and its Applications: 129608  (2024)](https://doi.org/10.1016/j.physa.2024.129608)</span>
