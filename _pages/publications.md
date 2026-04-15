@@ -9,9 +9,21 @@ author_profile: true
 
 Preprint
 ======
+* Distinct mechanisms underlying in-context learning in transformers. 
+<br>
+Cole Gibson\*, <strong>Wenping Cui</strong>\*, Gautam Reddy <br>
+<span style="color:#4285F4">[arXiv:2604.12151](https://arxiv.org/abs/2604.12151)</span>
+<br>
+
+* Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons. 
+<br>
+Ralf Tönjes, Chunming Zheng, <strong>Wenping Cui</strong>, Benjamin Lindner <br>
+<span style="color:#4285F4">[arXiv:2603.21781](https://arxiv.org/abs/2603.21781)</span>
+<br>
+
 * Les Houches Lectures on Community Ecology: From Niche Theory to Statistical Mechanics. 
 <br>
-Wenping Cui, Robert Marsland III, Pankaj Mehta <br>
+<strong>Wenping Cui</strong>, Robert Marsland III, Pankaj Mehta <br>
 <span style="color:#4285F4">[arXiv:2403.05497](https://arxiv.org/abs/2403.05497)</span>
 <br>
 
