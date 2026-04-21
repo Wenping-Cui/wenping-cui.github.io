@@ -30,25 +30,25 @@ Ralf Tönjes, Chunming Zheng, <strong>Wenping Cui</strong>, Benjamin Lindner <br
 2025
 ======
 * A minimal model of pan-immunity maintenance by horizontal gene transfer in the ecological dynamics of bacteria and phages. <br>
-<strong><U>Wenping Cui</U></strong>, Jemma M. Fendley, Sriram Srikant and Boris Shraiman <br>
+<strong>Wenping Cui</strong>\#, Jemma M. Fendley, Sriram Srikant and Boris Shraiman <br>
 <span style="color:#4285F4">[Proc. Natl. Acad. Sci. 122 (31) e2417628122 (2025)](https://doi.org/10.1073/pnas.2417628122)</span>
 
 2024
 ====== 
 * An elementary mean-field approach to the spectral densities of random matrix ensembles. <br>
-		<strong><U>Wenping Cui</U></strong>, Jason W. Rocks, Pankaj Mehta <br>
+		<strong>Wenping Cui</strong>, Jason W. Rocks, Pankaj Mehta <br>
 <span style="color:#4285F4">[Physica A: Statistical Mechanics and its Applications: 129608  (2024)](https://doi.org/10.1016/j.physa.2024.129608)</span>
 
 2021
 ======
 * Diverse communities behave like typical random ecosystems. <br>
-<strong><U>Wenping Cui</U></strong>, Robert Marsland III, Pankaj Mehta <br>
+<strong>Wenping Cui</strong>, Robert Marsland III, Pankaj Mehta <br>
 <span style="color:#4285F4">[Phys. Rev. E 104, 034416 (2021)](https://link.aps.org/doi/10.1103/PhysRevE.104.034416)</span>
 
 2020
 ======
 * The Minimum Environmental Perturbation Principle: A New Perspective on Niche Theory. <br>
-Robert Marsland III, <strong>Wenping Cui</strong>, Pankaj Mehta <br>
+Robert Marsland III, <strong>sWenping Cui</strong>, Pankaj Mehta <br>
 <span style="color:#4285F4">[The American Naturalist 196.3 (2020): 291-305.](https://www.journals.uchicago.edu/doi/full/10.1086/710093?mobileUi=0#d2509099e1)</span>
 
 * Machine Learning as Ecology. <br>
@@ -56,7 +56,7 @@ Owen Howell, <strong>Wenping Cui</strong>, Robert Marsland III, and Pankaj Mehta
 <span style="color:#4285F4">[J. Phys. A: Math. Theor. 53 (2020): 334001.](https://iopscience.iop.org/article/10.1088/1751-8121/ab956e) </span>
 
 * Effect of resource dynamics on species packing in diverse ecosystems. <br>
-<strong><U>Wenping Cui</U></strong>, Robert Marsland III, Pankaj Mehta <br>
+<strong>Wenping Cui</strong>, Robert Marsland III, Pankaj Mehta <br>
 <span style="color:#4285F4">[Phys. Rev. Lett. 125, 048101 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101)</span>  
 Editors’ Suggestion,  see also the synopsis in Physics Magazine: <span style="color:#4285F4">[Resource
 Dynamics Dictate Diversity](https://physics.aps.org/articles/v13/s96)</span>.
