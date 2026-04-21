@@ -48,7 +48,7 @@ Ralf Tönjes, Chunming Zheng, <strong>Wenping Cui</strong>, Benjamin Lindner <br
 2020
 ======
 * The Minimum Environmental Perturbation Principle: A New Perspective on Niche Theory. <br>
-Robert Marsland III, <strong>sWenping Cui</strong>, Pankaj Mehta <br>
+Robert Marsland III, <strong>Wenping Cui</strong>, Pankaj Mehta <br>
 <span style="color:#4285F4">[The American Naturalist 196.3 (2020): 291-305.](https://www.journals.uchicago.edu/doi/full/10.1086/710093?mobileUi=0#d2509099e1)</span>
 
 * Machine Learning as Ecology. <br>
