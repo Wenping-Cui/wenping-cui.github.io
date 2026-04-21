@@ -30,7 +30,7 @@ Ralf Tönjes, Chunming Zheng, <strong>Wenping Cui</strong>, Benjamin Lindner <br
 2025
 ======
 * A minimal model of pan-immunity maintenance by horizontal gene transfer in the ecological dynamics of bacteria and phages. <br>
-<strong>Wenping Cui</strong>\#, Jemma M. Fendley, Sriram Srikant and Boris Shraiman <br>
+<strong>Wenping Cui</strong><sup>#</sup>, Jemma M. Fendley, Sriram Srikant and Boris Shraiman <br>
 <span style="color:#4285F4">[Proc. Natl. Acad. Sci. 122 (31) e2417628122 (2025)](https://doi.org/10.1073/pnas.2417628122)</span>
 
 2024
