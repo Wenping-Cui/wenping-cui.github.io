@@ -11,35 +11,35 @@ redirect_from:
 
 
 
-Uncovering the Principles of Complex Systems
+Finding the Rules Behind Complex Systems
 ======
-My research bridges biology and statistical physics to uncover the general principles governing living organisms. Driven by the classic principle that *more is different*, I investigate how high-level functions emerge from the interaction of many simple parts.
+I work between biology and physics, looking for the general rules that living systems follow. My starting point is an old idea: *more is different*. Put enough simple parts together and the group does things that no single part can do.
 
-A single bacterium or a solitary neuron reveals little about the behavior of a whole microbiome or an entire brain. Because these complex systems possess thousands of interacting components, studying them one piece at a time is computationally and practically impossible. I therefore take a top-down approach. By developing mathematical frameworks, fast simulation algorithms, and deep-learning pipelines, I reduce the dimensionality of noisy biological data to find the simple rules that govern collective behavior—and turn those rules into testable predictions.
+One bacterium tells you almost nothing about a whole microbiome, and one neuron tells you almost nothing about a brain. These systems have thousands of parts acting on each other at once, so taking them apart one piece at a time is hopeless — there are far too many pieces, and far too many ways they can combine. So I work the other way around, from the top down. I build math models, write fast simulations, and use deep learning to strip the noise out of large, messy biological data. The aim is to find the few simple rules behind the group behavior, and then turn those rules into predictions that experiments can test.
 
 How Complex Ecosystems Organize Themselves
 ======
-A spoonful of soil contains thousands of microbial species, all competing for the same limited resources. The classical paradox is: why don't a few winners simply take over? My work reveals how diversity itself enforces a kind of simplicity, and how function persists amidst a churning sea of genetic change.
+A spoonful of soil holds thousands of microbial species, all competing for the same limited food. The old puzzle is why a few winners don't simply take over and crowd out the rest. My work shows two things: that having many species makes a community easier to describe rather than harder, and that a community keeps doing its job even while its genes are constantly changing hands.
 
-Diversity Breeds Simplicity
+More Species, Simpler Rules
 ------
-We discovered a counterintuitive principle: once a microbial community becomes sufficiently diverse, its large-scale behavior ceases to depend on the microscopic details of who interacts with whom. The myriad specific uncertainties effectively wash out, meaning simple, coarse-grained models can accurately capture the community's macro-behavior. The practical consequence is profound—we can predict and even engineer microbiomes without the impossible task of mapping every single interaction. ([*Phys. Rev. Lett.* 2020](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101); [*Phys. Rev. E* 2021](https://link.aps.org/doi/10.1103/PhysRevE.104.034416))
+We found something surprising: once a community has enough species in it, its overall behavior stops depending on the fine details of which species affects which. All the small differences average out, so a simple model that ignores those details still gets the big picture right. This matters in practice. It means we can predict, and even design, microbiomes without first mapping every single interaction — a task that would be impossible anyway. ([*Phys. Rev. Lett.* 2020](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101); [*Phys. Rev. E* 2021](https://link.aps.org/doi/10.1103/PhysRevE.104.034416))
 
-Functional Stability in Flux
+Staying Stable While Everything Changes
 ------
-Real ecosystems are not static; species constantly evolve, and genes are continuously exchanged. Our research found that stability is not about preserving a fixed list of species, but about ensuring the essential jobs remain covered. Useful metabolic capabilities are continually shared, lost, and reassembled horizontally, creating a resilient functional core that survives even as individual species come and go. A community's identity lies in its shared metabolic playbook, not its species roster. ([*PNAS* 2025](https://doi.org/10.1073/pnas.2417628122))
+Real ecosystems never sit still. Species keep evolving, and bacteria pass genes back and forth. We found that a stable community is not one that holds on to the same species, but one that keeps all the necessary jobs covered. Useful abilities are shared, lost, and put back together in new hosts, so the full set of jobs survives even as the species doing them come and go. What defines a community is the set of skills it holds, not the list of names in it. ([*PNAS* 2025](https://doi.org/10.1073/pnas.2417628122))
 
 How Brains and Machines Learn
 ======
-The same puzzle of emergent complexity appears in systems that learn. I use both artificial and biological neural networks as testbeds to understand how simple building blocks self-organize into sophisticated, intelligent capabilities.
+The same puzzle shows up in systems that learn. I use both artificial and biological networks to understand how simple building blocks come together into complex skills.
 
-Emergence in Language Models
+How Language Models Learn
 ------
-Large language models are an ideal laboratory for this research: their architecture and training data are completely known, allowing us to watch complex abilities emerge in real time. By studying how small models master new tasks, we found they build distinct internal skills in a characteristic, stage-like sequence. Crucially, a model's ability to generalize—rather than simply memorize—is driven by the diversity of its training data, not just its sheer quantity. ([arXiv:2604.12151](https://arxiv.org/abs/2604.12151))
+Language models make a good test case, because we know exactly how they are built and what they were trained on. That lets us watch new abilities appear as they happen. Studying small models as they learn new tasks, we found they pick up separate internal skills one at a time, in a regular order. The key finding is that whether a model learns a real rule or just memorizes answers depends on how varied its training examples are, not on how many it sees. ([arXiv:2604.12151](https://arxiv.org/abs/2604.12151))
 
-Motor Learning in Animals
+How Animals Learn to Move
 ------
-Animals face a vastly harder problem, learning to move in a physical world with a near-infinite space of possible actions. By tracking the full 3D posture of freely moving rats as they master a new skill, we find that they do not appear to invent entirely new movements. Instead, they navigate within a low-dimensional space, reusing a stable vocabulary of natural motion building blocks. Learning becomes a process of structured search: animals gradually favor the combinations that earn reward. This suggests physical intelligence is built not from scratch, but by intelligently recombining a pre-existing behavioral grammar. (In preparation.)
+Animals have a harder problem. They learn by moving through the real world, where the number of possible movements is effectively endless. We tracked the full 3D posture of rats as they learned a new skill, and found that they do not seem to invent new movements at all. Instead they reuse a small, steady set of moves they already had, and learning is mostly a matter of finding which combinations of those moves earn a reward. This suggests that learning to move is not built from scratch. It works by recombining pieces the animal already has. (In preparation.)
 
 
 <!-- Default Statcounter code for Github webpage
