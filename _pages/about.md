@@ -11,20 +11,27 @@ redirect_from:
 
 
 
-My research lies at the interface between biology and physics. I am especially interested in identifying general principles governing living organisms using insights from statistical mechanics.
-
-Large Complex Ecosystems
+Uncovering the Principles of Complex Systems
 ======
-Modern techniques have uncovered the incredible diversity of microbial ecosystems. It brings significant challenges to understand and predict community structure and species coexistence patterns in diverse communities. I am working toward tackling these challenges in high dimensional ecosystems. In particular, it falls under two themes:(a) to develop fast algorithms to simulate diverse microbial communities; (b) to answer fundamental ecological questions with theoretical approaches inspired by spin glass physics.
+My research bridges biology and statistical physics to uncover the general principles governing living organisms. Driven by the classic principle that *more is different*, I investigate how high-level functions emerge from the interaction of many simple parts.
 
-Computation in Cells
+A single bacterium or a solitary neuron reveals little about the behavior of a whole microbiome or an entire brain. Because these complex systems possess thousands of interacting components, studying them one piece at a time is computationally and practically impossible. I therefore take a top-down approach. By developing mathematical frameworks, fast simulation algorithms, and deep-learning pipelines, I reduce the dimensionality of noisy biological data to find the simple rules that govern collective behavior—and turn those rules into testable predictions.
+
+How Complex Ecosystems Organize Themselves
 ======
-Cells, the basic unit of life, perform complex computations to do environmental sensing and response. There must exist efficient, accurate, robust, and reusable algorithms in biological decision processes. For example, kinetic proofreading allows enzymes to discriminate two possible reaction pathways and reduce errors in biosynthetic processes. We also show Support Vector Machines have a natural interpretation in terms of ecological dynamics and may help understand the learning processes in immune responses. I am particularly interested in applying nonequilibrium statistical mechanics and ideas from computer science to understand design principles for functions in cells.
+A spoonful of soil can hold thousands of microbial species competing for the same limited resources. Why don't a few winners simply take over?
 
+**Diversity Breeds Simplicity.** My work demonstrates that once a microbial community becomes diverse enough, its overall behavior stops depending on the precise details of who interacts with whom. The many microscopic uncertainties wash out, allowing simple, coarse-grained models to capture the community's macro-behavior. This means we can predict and engineer microbiomes without needing to map every single interaction.
 
-Random Matrix Theory in Biological Data Analysis
-------
-Biological measurement is always accompanied by noise, especially when using high throughput single-cell technologies. It is essential to filter noise before inferring meaningful signals. The information-plus-noise matrix in random matrix theory can well describe this problem. The noise can be filtered by comparing the eigenvalue structure of biological data with spectrums predicted by theories.  Furthermore, the presence of the signal depends on if its strength is above a certain threshold. Thoroughly understanding this threshold will completely characterize the fundamental limits in inferring signals, which is exciting to explore.
+**Functional Stability in Flux.** Real ecosystems are constantly changing as species evolve and exchange genes. We found that stability doesn't come from maintaining the exact same species, but from ensuring the jobs remain covered. Useful capabilities are continually shared, lost, and reassembled, allowing essential community functions to survive even when individual species do not.
+
+How Brains and Machines Learn
+======
+This same puzzle of emergent complexity appears in systems that learn. I study both artificial and biological networks to understand how simple building blocks organize into sophisticated capabilities.
+
+**Emergence in Language Models.** Large language models serve as an ideal laboratory: because their architecture and training data are entirely known, we can watch complex abilities appear in real time. By studying how small models learn new tasks, we found they build distinct internal skills in stages. Ultimately, a model's ability to generalize—rather than simply memorize—is driven by the diversity of its training data, not just the quantity.
+
+**Motor Learning in Animals.** Animals face a vastly harder problem, needing to learn by moving through a physical world with unlimited possible actions. By tracking the 3D posture of freely moving rats mastering a new task, we discovered that animals do not invent entirely new movements. Instead, they navigate within a low-dimensional space, reusing a stable vocabulary of natural motion building blocks. They gradually favor combinations that earn rewards, suggesting that physical learning is a structured search over an existing vocabulary rather than a blind search through infinite possibilities.
 
 
 <!-- Default Statcounter code for Github webpage
