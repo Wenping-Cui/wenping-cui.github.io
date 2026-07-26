@@ -19,19 +19,27 @@ A single bacterium or a solitary neuron reveals little about the behavior of a w
 
 How Complex Ecosystems Organize Themselves
 ======
-A spoonful of soil can hold thousands of microbial species competing for the same limited resources. Why don't a few winners simply take over?
+A spoonful of soil contains thousands of microbial species, all competing for the same limited resources. The classical paradox is: why don't a few winners simply take over? My work reveals how diversity itself enforces a kind of simplicity, and how function persists amidst a churning sea of genetic change.
 
-**Diversity Breeds Simplicity.** My work demonstrates that once a microbial community becomes diverse enough, its overall behavior stops depending on the precise details of who interacts with whom ([*Phys. Rev. Lett.* 2020](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101); [*Phys. Rev. E* 2021](https://link.aps.org/doi/10.1103/PhysRevE.104.034416)). The many microscopic uncertainties wash out, allowing simple, coarse-grained models to capture the community's macro-behavior. This means we can predict and engineer microbiomes without needing to map every single interaction.
+Diversity Breeds Simplicity
+------
+We discovered a counterintuitive principle: once a microbial community becomes sufficiently diverse, its large-scale behavior ceases to depend on the microscopic details of who interacts with whom. The myriad specific uncertainties effectively wash out, meaning simple, coarse-grained models can accurately capture the community's macro-behavior. The practical consequence is profound—we can predict and even engineer microbiomes without the impossible task of mapping every single interaction. ([*Phys. Rev. Lett.* 2020](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101); [*Phys. Rev. E* 2021](https://link.aps.org/doi/10.1103/PhysRevE.104.034416))
 
-**Functional Stability in Flux.** Real ecosystems are constantly changing as species evolve and exchange genes. We found that stability doesn't come from maintaining the exact same species, but from ensuring the jobs remain covered ([*PNAS* 2025](https://doi.org/10.1073/pnas.2417628122)). Useful capabilities are continually shared, lost, and reassembled, allowing essential community functions to survive even when individual species do not.
+Functional Stability in Flux
+------
+Real ecosystems are not static; species constantly evolve, and genes are continuously exchanged. Our research found that stability is not about preserving a fixed list of species, but about ensuring the essential jobs remain covered. Useful metabolic capabilities are continually shared, lost, and reassembled horizontally, creating a resilient functional core that survives even as individual species come and go. A community's identity lies in its shared metabolic playbook, not its species roster. ([*PNAS* 2025](https://doi.org/10.1073/pnas.2417628122))
 
 How Brains and Machines Learn
 ======
-This same puzzle of emergent complexity appears in systems that learn. I study both artificial and biological networks to understand how simple building blocks organize into sophisticated capabilities.
+The same puzzle of emergent complexity appears in systems that learn. I use both artificial and biological neural networks as testbeds to understand how simple building blocks self-organize into sophisticated, intelligent capabilities.
 
-**Emergence in Language Models.** Large language models serve as an ideal laboratory: because their architecture and training data are entirely known, we can watch complex abilities appear in real time. By studying how small models learn new tasks, we found they build distinct internal skills in stages ([arXiv:2604.12151](https://arxiv.org/abs/2604.12151)). Ultimately, a model's ability to generalize—rather than simply memorize—is driven by the diversity of its training data, not just the quantity.
+Emergence in Language Models
+------
+Large language models are an ideal laboratory for this research: their architecture and training data are completely known, allowing us to watch complex abilities emerge in real time. By studying how small models master new tasks, we found they build distinct internal skills in a characteristic, stage-like sequence. Crucially, a model's ability to generalize—rather than simply memorize—is driven by the diversity of its training data, not just its sheer quantity. ([arXiv:2604.12151](https://arxiv.org/abs/2604.12151))
 
-**Motor Learning in Animals.** Animals face a vastly harder problem, needing to learn by moving through a physical world with unlimited possible actions. By tracking the 3D posture of freely moving rats mastering a new task, we find that animals do not appear to invent entirely new movements. Instead, they navigate within a low-dimensional space, reusing a stable vocabulary of natural motion building blocks. They gradually favor combinations that earn rewards, suggesting that physical learning is a structured search over an existing vocabulary rather than a blind search through infinite possibilities. *(In preparation.)*
+Motor Learning in Animals
+------
+Animals face a vastly harder problem, learning to move in a physical world with a near-infinite space of possible actions. By tracking the full 3D posture of freely moving rats as they master a new skill, we find that they do not appear to invent entirely new movements. Instead, they navigate within a low-dimensional space, reusing a stable vocabulary of natural motion building blocks. Learning becomes a process of structured search: animals gradually favor the combinations that earn reward. This suggests physical intelligence is built not from scratch, but by intelligently recombining a pre-existing behavioral grammar. (In preparation.)
 
 
 <!-- Default Statcounter code for Github webpage
