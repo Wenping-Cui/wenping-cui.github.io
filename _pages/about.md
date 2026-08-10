@@ -19,7 +19,6 @@ My work combines statistical-physics-inspired modeling, large-scale numerical si
 
 Representative works
 ======
-
 Emergent Organization in Microbial Ecosystems
 ------
 Microbial communities can contain thousands of species competing for limited resources. Their composition also changes continually through population turnover, evolution, and horizontal gene transfer. My work investigates how such ecosystems self-ogranize under complexity.
