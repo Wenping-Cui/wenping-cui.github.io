@@ -15,7 +15,7 @@ Research Interests
 ======
 My research lies at the interface of physics, biology, and machine learning. I use ideas from statistical physics to understand how collective behavior and learning emerge in systems composed of many interacting parts—from microbial ecosystems to neural networks and animal behavior. Across these systems, I ask a common question: when can high-dimensional dynamics be explained by a small set of order parameters, statistical laws, or computational strategies? I seek coarse-grained principles that yield quantitative, experimentally testable predictions.
 
-My work combines statistical-physics-inspired modeling, large-scale numerical simulation and experimental data analysis. Depending on the system, The goal is not only to predict what a complex system will do, but also to identify the minimal mechanisms that make its behavior understandable.
+My work combines statistical-physics-inspired modeling, large-scale numerical simulation and deep learning inference tools to invesitage different complex systems and identify the minimal mechanisms that make its behavior understandable.
 
 Representative works
 ======
