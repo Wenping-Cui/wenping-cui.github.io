@@ -11,35 +11,33 @@ redirect_from:
 
 
 
-Finding the Rules Behind Complex Systems
+Research Interests
 ======
-I work between biology and physics, looking for the general rules that living systems follow. My starting point is an old idea: *more is different*. Put enough simple parts together and the group does things that no single part can do.
+My research lies at the interface of physics, biology, and machine learning. I use ideas from statistical physics to understand how collective behavior and learning emerge in systems composed of many interacting parts—from microbial ecosystems to neural networks and animal behavior. Across these systems, I ask a common question: when can high-dimensional dynamics be explained by a small set of order parameters, statistical laws, or computational strategies? I seek coarse-grained principles that yield quantitative, experimentally testable predictions.
 
-One bacterium tells you almost nothing about a whole microbiome, and one neuron tells you almost nothing about a brain. These systems have thousands of parts acting on each other at once, so taking them apart one piece at a time is hopeless — there are far too many pieces, and far too many ways they can combine. So I work the other way around, from the top down. I build math models, develop fast simulations, and use deep learning to filter out the noise and pull the meaningful signal from large, messy biological data. The aim is to find the few simple rules behind the group behavior, and then turn those rules into predictions that experiments can test.
+My work combines mathematical modeling, statistical-physics theory, large-scale numerical simulation for complex systems. Depending on the system, I develop consumer-resource and population-dynamics models, analyze the internal computations of neural networks, or extract behavioral structure from high-dimensional experimental data. The goal is not only to predict what a complex system will do, but also to identify the minimal mechanisms that make its behavior understandable.
 
-How Complex Ecosystems Organize Themselves
+Representative works
 ======
-A spoonful of soil holds thousands of microbial species, all competing for the same limited food. The old puzzle is how so many species manage to coexist at all. My work shows two things: that having many species makes a community easier to describe rather than harder, and that a community keeps doing its job even while its genes are constantly changing hands.
 
-More Species, Simpler Rules
+Emergent Organization in Microbial Ecosystems
 ------
-We found something surprising: once a community has enough species in it, its overall behavior stops depending on the fine details of which species affects which. All the small differences average out, so a simple model that ignores those details still gets the big picture right. This matters in practice. It means we can predict, and even design, microbiomes without first mapping every single interaction — a task that would be impossible anyway. ([*Phys. Rev. Lett.* 2020](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101); [*Phys. Rev. E* 2021](https://link.aps.org/doi/10.1103/PhysRevE.104.034416))
+Microbial communities can contain thousands of species competing for limited resources. Their composition also changes continually through population turnover, evolution, and horizontal gene transfer. My work investigates how such ecosystems self-ogranize under complexity.
 
-Staying Stable While Everything Changes
+**Simplifcity from Complexity:**  We found that once a community has enough species in it, its overall behavior stops depending on the fine details of which species affects which. All the small differences average out, so a simple model that ignores those details still gets the big picture right. This matters in practice. It means we can predict, and even design, microbiomes without first mapping every single interaction — a task that would be impossible anyway. ([*Phys. Rev. Lett.* 2020](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101); [*Phys. Rev. E* 2021](https://link.aps.org/doi/10.1103/PhysRevE.104.034416))
+
+
+**Robustness Through Gene Sharing:** Real ecosystems never sit still. Species keep evolving, and bacteria pass genes back and forth. We found that a stable community is not one that holds on to the same species, but one that keeps the necessary genes in circulation. To survive, a cell needs the right defense genes on hand, and those genes are constantly being shared, lost, and reassembled across the community. Because the genes keep flowing, the community as a whole stays diverse even when individual cells die at a high rate. What defines a community is the pool of genes it holds, not the list of species in it. ([*PNAS* 2025](https://doi.org/10.1073/pnas.2417628122))
+
+Learning Dynamics in Brains and Machines
 ------
-Real ecosystems never sit still. Species keep evolving, and bacteria pass genes back and forth. We found that a stable community is not one that holds on to the same species, but one that keeps the necessary genes in circulation. To survive, a cell needs the right defense genes on hand, and those genes are constantly being shared, lost, and reassembled across the community. Because the genes keep flowing, the community as a whole stays diverse even when individual cells die at a high rate. What defines a community is the pool of genes it holds, not the list of species in it. ([*PNAS* 2025](https://doi.org/10.1073/pnas.2417628122))
+The same puzzle shows up in systems that learn. Learning systems face a problem analogous to that of complex ecosystems: many interacting components must collectively discover useful structure in a vast space of possibilities. I study both artificial and biological learners to understand how computational strategies and behavioral motifs (similar to species in ecology!) emerge, compete, and reorganize during learning.
 
-How Brains and Machines Learn
-======
-The same puzzle shows up in systems that learn. I use both artificial and biological networks to understand how simple building blocks come together into complex, intelligent behavior.
 
-How Language Models Learn
-------
-Language models make a good test case, because we know exactly how they are built and what they were trained on. That lets us watch new abilities appear as they happen. Studying small models as they learn new tasks, we found that whether a model picks up a real rule or simply memorizes answers depends on how varied its training examples are. Surprisingly, a model that is too good at memorizing has a harder time learning to generalize. ([arXiv:2604.12151](https://arxiv.org/abs/2604.12151))
+**Generalization versus Memorization in Transformers** Language models make a good test case, because we know exactly how they are built and what they were trained on. That lets us watch new abilities appear as they happen. Studying small models as they learn controllable sythestic tasks, we found that whether a model picks up a real rule or simply memorizes answers depends on how varied its training examples are. Surprisingly, a model that is too good at memorizing has a harder time learning to generalize. ([arXiv:2604.12151](https://arxiv.org/abs/2604.12151))
 
-How Animals Learn to Move
-------
-Animals have a harder problem. They learn by moving through the real world, where the number of possible movements is effectively endless. I am building a data analysis pipeline that tracks the full 3D posture of rats as they learn a new skill. Even though the space of possible movements is huge, the animals reuse a small, steady set of moves they already had. Learning is mostly a matter of finding which combinations of those moves earn a reward, rather than inventing new ones. (In preparation.)
+
+**Behavioral Strategies for Motor Learning**: Animals have a harder problem. They learn by moving through the real world, where the number of possible movements is effectively endless. I am developing a data-analysis pipeline that reconstructs the full three-dimensional posture of freely moving rats as they learn new motor skills. Our preliminary analyses suggest that animals navigate this space by selecting, refining, and recombining a compact repertoire of movements already present early in training. This work aims to reveal how animals efficiently explore behavioral possibilities and converge on successful solutions. (In preparation.) (In preparation.)
 
 
 <!-- Default Statcounter code for Github webpage
