@@ -15,17 +15,21 @@ Cole Gibson\*, <strong>Wenping Cui</strong>\*, Gautam Reddy <br>
 <span style="color:#4285F4">[arXiv:2604.12151](https://arxiv.org/abs/2604.12151)</span>
 <br>
 
-* Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons. 
-<br>
-Ralf Tönjes, Chunming Zheng, <strong>Wenping Cui</strong>, Benjamin Lindner <br>
-<span style="color:#4285F4">[arXiv:2603.21781](https://arxiv.org/abs/2603.21781)</span>
-<br>
-
 * Les Houches Lectures on Community Ecology: From Niche Theory to Statistical Mechanics. 
 <br>
 <strong>Wenping Cui</strong>, Robert Marsland III, Pankaj Mehta <br>
 <span style="color:#4285F4">[arXiv:2403.05497](https://arxiv.org/abs/2403.05497)</span>
 <br>
+
+
+2026
+======
+* Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons. 
+<br>
+Ralf Tönjes, Chunming Zheng, <strong>Wenping Cui</strong>, Benjamin Lindner <br>
+<span style="color:#4285F4">[Eur. Phys. J. B 99.5 (2026): 56.](https://link.springer.com/article/10.1140/epjb/s10051-026-01161-y)</span>
+<br>
+
 
 2025
 ======
@@ -36,7 +40,7 @@ Ralf Tönjes, Chunming Zheng, <strong>Wenping Cui</strong>, Benjamin Lindner <br
 2024
 ====== 
 * An elementary mean-field approach to the spectral densities of random matrix ensembles. <br>
-		<strong>Wenping Cui</strong>, Jason W. Rocks, Pankaj Mehta <br>
+<strong>Wenping Cui</strong>, Jason W. Rocks, Pankaj Mehta <br>
 <span style="color:#4285F4">[Physica A: Statistical Mechanics and its Applications: 129608  (2024)](https://doi.org/10.1016/j.physa.2024.129608)</span>
 
 2021

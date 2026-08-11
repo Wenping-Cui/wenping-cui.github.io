@@ -17,9 +17,10 @@ My research lies at the interface of physics, biology, and machine learning. I u
 
 Representative works
 ======
+
 Emergent Organization in Microbial Ecosystems
 ------
-Microbial communities can contain thousands of species competing for limited resources. Their composition also changes continually through population turnover, evolution, and horizontal gene transfer. My work investigates how such ecosystems self-ogranize under complexity.
+Microbial communities can contain thousands of species competing for limited resources, while their composition continually changes through population turnover, evolution, and horizontal gene transfer. My work investigates how such ecosystems maintain diversity and robustness despite competition and selection.
 
 **Simplifcity from Complexity:**  We found that once a community has enough species in it, its overall behavior stops depending on the fine details of which species affects which. All the small differences average out, so a simple model that ignores those details still gets the big picture right. This matters in practice. It means we can predict, and even design, microbiomes without first mapping every single interaction — a task that would be impossible anyway. ([*Phys. Rev. Lett.* 2020](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.048101); [*Phys. Rev. E* 2021](https://link.aps.org/doi/10.1103/PhysRevE.104.034416))
 
@@ -28,8 +29,7 @@ Microbial communities can contain thousands of species competing for limited res
 
 Learning with and without Brains
 ------
-The same puzzle shows up in systems that learn. Learning systems face a problem analogous to that of complex ecosystems: many interacting components must collectively discover useful structure in a vast space of possibilities. I study both artificial and biological learners to understand how computational strategies and behavioral motifs (similar to species in ecology!) emerge, compete, and reorganize during learning.
-
+The same puzzle appears in systems that learn. Learning systems face a challenge analogous to that of complex ecosystems: a successful learner must adaptively discover useful structure in a complex environment. I study both artificial and biological learners to understand how computational strategies and behavioral motifs compete and reorganize as learning progresses—much like species in an ecosystem, but adapting on the far faster timescale of learning.
 
 **Generalization versus Memorization in Transformers** Language models make a good test case, because we know exactly how they are built and what they were trained on. That lets us watch new abilities appear as they happen. Studying small models as they learn controllable sythestic tasks, we found that whether a model picks up a real rule or simply memorizes answers depends on how varied its training examples are. Surprisingly, a model that is too good at memorizing has a harder time learning to generalize. ([arXiv:2604.12151](https://arxiv.org/abs/2604.12151))
 
